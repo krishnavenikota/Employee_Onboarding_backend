@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "jobTitle": "Senior Developer",
+    "grade": "D",
+    "role": "Developer",
+    "techStack": ["JavaScript", "Node.js"]
+  },
+  {
+    "id": 2,
+    "jobTitle": "Junior Tester",
+    "grade": "C",
+    "role": "Tester",
+    "techStack": ["Java", "Selenium"]
+  },
+
+  {
+    "id": 3,
+    "jobTitle": "Software Engineer",
+    "grade": "D",
+    "role": "Developer",
+    "techStack": ["JavaScript", "Node.js", "React"]
+  },
+  {
+    "id": 4,
+    "jobTitle": "Product Owner",
+    "grade": "E",
+    "role": "Product",
+    "techStack": [
+      "product management",
+      "communication",
+      "leadership skills",
+      "Agile methodologies"
+    ]
+  },
+  {
+    "id": 5,
+    "jobTitle": "Data Scientist",
+    "grade": "C",
+    "role": "Developer",
+    "techStack": ["Python", "R", "SQL"]
+  },
+  {
+    "id": 6,
+    "jobTitle": "Human Resources Manager",
+    "grade": "F",
+    "role": "Business",
+    "techStack": ["Business Administration", "labor laws and regulations"]
+  }
+]

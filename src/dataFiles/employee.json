@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Prachi",
+    "jobTitle": "Senior Developer",
+    "grade": "D",
+    "role": "Developer",
+    "techStack": ["JavaScript", "Node.js"],
+    "businessUnit": "BCB",
+    "platform": "Commercial Lending Platform",
+    "lab": "Term Lending & Overdrafts",
+    "featureTeam": "Strategic enablers & Overdrafts"
+  },
+  {
+    "name": "Likitha",
+    "jobTitle": "Junior Tester",
+    "grade": "C",
+    "role": "Tester",
+    "techStack": ["Java", "Selenium"],
+    "businessUnit": "BCB",
+    "platform": "CLP",
+    "lab": "Core Lending Service",
+    "featureTeam": "Pricing"
+  },
+
+  {
+    "name": "Ayesha",
+    "jobTitle": "Software Engineer",
+    "grade": "D",
+    "role": "Developer",
+    "techStack": ["JavaScript", "Node.js", "React"],
+    "businessUnit": "BCB",
+    "platform": "CLP",
+    "lab": "Asset & Invoice Finance",
+    "featureTeam": "AF Build Team 1"
+  },
+  {
+    "name": "krishna",
+    "jobTitle": "Product Owner",
+    "grade": "E",
+    "role": "Product",
+    "techStack": [
+      "product management",
+      "communication",
+      "leadership skills",
+      "Agile methodologies"
+    ],
+    "businessUnit": "BCB",
+    "platform": "CLP",
+    "lab": "Commercial Cards",
+    "featureTeam": "Small Business Cards"
+  },
+  {
+    "name": "keerthi",
+    "jobTitle": "Data Scientist",
+    "grade": "C",
+    "role": "Developer",
+    "techStack": ["Python", "R", "SQL"],
+    "businessUnit": "BCB",
+    "platform": "CLP",
+    "lab": "Term Lending",
+    "featureTeam": "Strategic Enablers"
+  },
+  {
+    "name": "sai",
+    "jobTitle": "Human Resources Manager",
+    "grade": "F",
+    "role": "Business",
+    "techStack": ["Business Administration", "labor laws and regulations"],
+    "businessUnit": "BCB",
+    "platform": "CLP",
+    "lab": "Term Lending",
+    "featureTeam": "Strategic Enablers and Overdrafts"
+  }
+]
